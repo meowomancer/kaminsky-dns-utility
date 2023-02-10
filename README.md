@@ -1,4 +1,4 @@
-kaminsky.pl is a Perl script created by Zachary Yamada at the University of Oregon in order to demonstrate the concept of DNS poisoning via a Kaminsky attack in a closed environment. This tool is designed to run on most Debian based distros.
+kaminsky.pl is a Perl script created by Hazel Yamada at the University of Oregon in order to demonstrate the concept of DNS poisoning via a Kaminsky attack in a closed environment. This tool is designed to run on most Debian based distros.
 
 This tool was created for attack in a specifically configured lab and will not work in the wild. If you wish to utilize this tool for your own academic purposes you must disable source port randomization on the DNS server you are attacking. 
 
